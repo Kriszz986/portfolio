@@ -1,0 +1,60 @@
+body{
+    background-color: #1aff1a
+
+}
+h1{color: rgb(0, 0, 0);
+font-family:'Oswald', sans-serif;
+font-size: 200%;
+width: 100%;
+text-align: center;
+
+}
+th{
+    color: black;
+    font-family: 'Oswald', sans-serif;
+    font-size: 100%; 
+
+}
+table{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 5px; 
+
+}
+h1{
+    width: 300px;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 20px;
+    margin: 25px auto;
+
+}
+h2, h3, h4, h5, h6{
+    width: 150px;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 30px;
+    margin: 25px;
+
+}
+p{
+    width: 300px;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 30px; 
+    margin: 25px;
+    
+}
+ol{
+    width: 150px;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 30px;
+    margin: 25px;
+
+}
+td{
+    border: black solid 2px;
+    color: rgb(0, 0, 0);
+    font-size: 100%;
+    font-family:'Oswald', sans-serif;
+    padding: 1 10px;
+
+}
